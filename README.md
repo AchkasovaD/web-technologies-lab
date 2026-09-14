@@ -1,2 +1,7 @@
-# web-technologies-lab
-Laboratory works on web technologies Achkasova Daria
+# Web Technologies Lab
+Це навчальний репозиторій для виконання
+лабораторних робіт.
+## Лабораторна робота №1
+Тема: Основи роботи з GitHub.
+## Автор
+Ачкасова Дар'я
